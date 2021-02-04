@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Documents\PdfTron;
+namespace PDFNet\PDFTron;
 
 class Image2RGBA extends Filter
 {

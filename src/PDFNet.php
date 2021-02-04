@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Documents\PdfTron;
+namespace PDFNet\PDFTron;
 //
 //if (!extension_loaded('PDFNetPHP')) {
 //    if (strtolower(substr(PHP_OS, 0, 3)) === 'win') {

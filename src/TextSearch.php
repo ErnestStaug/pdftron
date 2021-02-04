@@ -1,5 +1,5 @@
 <?php
-namespace App\Documents\PdfTron;
+namespace PDFNet\PDFTron;
 
 class TextSearch {
 	public $_cPtr=null;
