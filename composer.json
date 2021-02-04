@@ -1,0 +1,13 @@
+{
+    "name": "erneststaug/pdftron",
+    "description": "PdfTron php7.4 compiled files",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "PDFNet\\PDFTron\\": "src/"
+        }
+    }
+}
